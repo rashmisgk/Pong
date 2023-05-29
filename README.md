@@ -1,5 +1,5 @@
 # Games
-Hello, I'm Rashmi, and I want to share with you two games I've created. 
+Hello, I'm Rashmi, and I want to share with you a game two games I've created. 
 These games are a result of my participation in the CS50's 'Introduction to Game Development' course, where I learned valuable tutorials.
 
 One of the games I've worked on is an updated version of the classic game Pong. 
