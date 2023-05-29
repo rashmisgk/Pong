@@ -1,4 +1,4 @@
-# Games
+# Pong
 Hello, I'm Rashmi, and I want to share with you a game two games I've created. 
 These games are a result of my participation in the CS50's 'Introduction to Game Development' course, where I learned valuable tutorials.
 
